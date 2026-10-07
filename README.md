@@ -1,11 +1,11 @@
 <!-- Animated waving header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20%F0%9F%91%8B%20I%27m%20Ishy&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Fullstack%20%26%20Software%20Developer&descSize=20&descAlignY=60" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20👋%20I'm%20Ishy&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Fullstack%20%26%20Software%20Developer&descSize=20&descAlignY=60" width="100%" alt="header" />
 
 <div align="center">
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=600&lines=Currently+busy+coding...+%F0%9F%92%BB;Fullstack+%26+Software+Developer;Python+%7C+Java+%7C+SQL;Fine-tuning+LLMs+with+Unsloth+%F0%9F%A6%A5;Building+APIs+with+FastAPI+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=600&lines=Currently+busy+coding...+💻;Fullstack+%26+Software+Developer;Python+%7C+Java+%7C+SQL;Fine-tuning+LLMs+with+Unsloth+🦥;Building+APIs+with+FastAPI+⚡" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,7 +14,7 @@
 
 <br/>
 
-![Profile Views](https://hits.sh/github.com/mansurii.svg?style=for-the-badge&label=Profile%20Views&color=7B2FF7)
+![Profile Views](https://komarev.com/ghpvc/?username=mansurii&label=Profile+Views&color=7B2FF7&style=for-the-badge)
 
 </div>
 
@@ -36,7 +36,7 @@
   </a>
   <br/><br/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Unsloth-%F0%9F%A6%A5%20Fine--Tuning-0B0B0B?style=for-the-badge" alt="Unsloth" />
+  <img src="https://img.shields.io/badge/Unsloth-🦥%20Fine--Tuning-0B0B0B?style=for-the-badge" alt="Unsloth" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 </p>
 
