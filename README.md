@@ -70,7 +70,7 @@
   <img src="https://streak-stats.demolab.com?user=mansurii&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
 </p>
 
-<h2 align="center">Contributions</h2>
+<h2 align="center">Contributions History</h2>
 
 <p align="center">
   <picture>
