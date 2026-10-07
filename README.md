@@ -50,7 +50,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mansurii/mansurii/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
@@ -70,7 +70,7 @@
   <img src="https://streak-stats.demolab.com?user=mansurii&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
 </p>
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">Contributions</h2>
 
 <p align="center">
   <picture>
